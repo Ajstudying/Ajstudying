@@ -1,7 +1,9 @@
 <!--
 **Ajstudying/Ajstudying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+헤더
 ![header](https://capsule-render.vercel.app/api?type=soft&text=welcome!&color=0:f7f5f5,100:f4bbbb)
+위젯
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajstudying)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/스택이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
@@ -39,3 +41,9 @@ Here are some ideas to get you started:
 <img vertical align="center" src="https://img.shields.io/badge/uipath-FA4616?style=flat-square&logo=uipath&logoColor=black"/> <img vertical align="center" src="https://img.shields.io/badge/AutomationAnywhere-d6562a?style=flat-square&logo=AutomationAnywhere&logoColor=white"> </div>
 <br>
 <br>
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ajstudying?&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
+  </a>
+</div>
+
