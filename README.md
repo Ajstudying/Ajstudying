@@ -41,9 +41,13 @@ Here are some ideas to get you started:
 <img vertical align="center" src="https://img.shields.io/badge/uipath-FA4616?style=flat-square&logo=uipath&logoColor=black"/> <img vertical align="center" src="https://img.shields.io/badge/AutomationAnywhere-d6562a?style=flat-square&logo=AutomationAnywhere&logoColor=white"> </div>
 <br>
 <br>
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ajstudying?&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
-  </a>
+<div vertical align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=Ajstudying&show_icons=true" alt="GitHub stats" height="200" hspace="10" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajstudying&layout=donut" alt="Top Langs" height="200" />
+    </a>
 </div>
+
 
