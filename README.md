@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </div>
 🌱 배워본 적 있음 / 공부ing / 기초적인 것 수행 가능 <br> 
 <div>
-<img vertical align="center" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"> <img vertical align="center" src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img vertical align="center" src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=springboot&logoColor=white"/> <img vertical align="center" src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img vertical align="center" src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white"/> <img vertical align="center" src="https://img.shields.io/badge/redis-FF4438?style=flat-square&logo=redis&logoColor=white"/> <img vertical align="center" src="https://img.shields.io/badge/rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/> <img vertical align="center" src="https://img.shields.io/badge/amazonwebservices-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/> </div>
+<img vertical align="center" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"> <img vertical align="center" src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img vertical align="center" src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=springboot&logoColor=white"/> <img vertical align="center" src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img vertical align="center" src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white"/> <img vertical align="center" src="https://img.shields.io/badge/redis-FF4438?style=flat-square&logo=redis&logoColor=white"/> <img vertical align="center" src="https://img.shields.io/badge/rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/> <img vertical align="center" src="https://img.shields.io/badge/amazonwebservices-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/> <img vertical align="center" src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/> <img vertical align="center" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img vertical align="center" src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/> <img vertical align="center" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/> <img vertical align="center" src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=black"/> <img vertical align="center" src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=black"/> <img vertical align="center" src="https://img.shields.io/badge/uipath-FA4616?style=flat-square&logo=uipath&logoColor=black"/> <img vertical align="center" src="https://img.shields.io/badge/AutomationAnywhere-d6562a?style=flat-square&logo=AutomationAnywhere&logoColor=white"> </div>
 <br>
 <br>
 🔭 현재 작업에 주로 사용하는 것 <br> 
@@ -40,6 +40,12 @@ Here are some ideas to get you started:
 <div>
 <img vertical align="center" src="https://img.shields.io/badge/uipath-FA4616?style=flat-square&logo=uipath&logoColor=black"/> <img vertical align="center" src="https://img.shields.io/badge/AutomationAnywhere-d6562a?style=flat-square&logo=AutomationAnywhere&logoColor=white"> </div>
 <br>
+<br>
+✨ Certification <br>
+<ul>
+  <li><b>Automation Anywhere Advanced Certification</b></li>
+  <li><b>SQL 개발자</b></li>
+</ul>
 <br>
 😄Please click button ↓
 
