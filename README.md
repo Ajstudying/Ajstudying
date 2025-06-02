@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 <ul>
   <li><b>Automation Anywhere Advanced Certification</b></li>
   <li><b>SQL 개발자</b></li>
+  <li><b>네트워크관리사2급</b></li>
 </ul>
 <br>
 😄Please click button ↓
