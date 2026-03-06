@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <h2>공부하는 개발자의 공부방에 오신 것을 환영합니다. 👋</h2>
+  <h2>👋</h2>
   <img src="https://capsule-render.vercel.app/api?type=soft&text=welcome!&color=0:f7f5f5,100:f4bbbb" />
 </div>
 <br>
@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 [![My Portfolio Page](https://img.shields.io/badge/My_Portfolio_Page-007bff?style=for-the-badge&logo=github)](https://ajstudying.github.io/portfolio/)
 <br>
 <br>
+<!--
 <div vertical align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=Ajstudying&show_icons=true" alt="GitHub stats" height="200" hspace="10" />
@@ -64,6 +65,8 @@ Here are some ideas to get you started:
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajstudying&layout=donut" alt="Top Langs" height="200" />
     </a>
 </div>
+
+-->
 
 
 
